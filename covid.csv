@@ -1,0 +1,451 @@
+"Cancer","Year","Month","Bleed","Mode_Presentation","Age","Gender","Etiology","Cirrhosis","Size","HCC_TNM_Stage","HCC_BCLC_Stage","ICC_TNM_Stage","Treatment_grps","Survival_fromMDM","Alive_Dead","Type_of_incidental_finding","Surveillance_programme","Surveillance_effectiveness","Mode_of_surveillance_detection","Time_diagnosis_1st_Tx","Date_incident_surveillance_scan","PS","Time_MDM_1st_treatment","Time_decisiontotreat_1st_treatment","Prev_known_cirrhosis","Months_from_last_surveillance"
+"Y","Prepandemic","1","N","Surveillance",68,"M","NAFLD","Y",22,"II","A",NA,"Ablation",32.73,"Alive",NA,"Y","Consistent","US",0.47,NA,"0",0.7,NA,"Y",7.333333333
+"Y","Prepandemic","1","N","Surveillance",70,"M","ARLD","Y",40,"I","D",NA,"Supportive care",3.03,"Dead",NA,"Y","Consistent","US",NA,NA,"2",NA,NA,"Y",4.033333333
+"Y","Prepandemic","1","N","Surveillance",64,"M","ARLD","Y",52,"IV","B",NA,"Medical",14.97,"Dead",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"Y",5.9
+"Y","Prepandemic","1","N","Incidental",73,"M","ARLD","Y",80,"IV","C",NA,"Supportive care",1.4,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"Y","Prepandemic","1","N","Incidental",66,"F","ARLD","Y",60,"I","0",NA,"Supportive care",32.5,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"Y","Prepandemic","1","N","Incidental",70,"M","NAFLD","Y",24,"IIIA+IIIB","C",NA,"Supportive care",3.03,"Dead","Secondary care—acute","Y","Consistent",NA,NA,NA,"2",NA,NA,"Y",3
+"Y","Prepandemic","1","N","Incidental",73,"M","NAFLD","Y",28,"II","A",NA,"TACE",32.5,"Alive","Primary care—routine","N",NA,NA,3.2,NA,"0",3,NA,"Y",NA
+"Y","Prepandemic","1","N","Incidental",67,"M","NAFLD","N",45,"I","A",NA,"TACE",26.4,"Dead","Primary care—routine","N",NA,NA,1.07,NA,"0",1.4,NA,"N",NA
+"Y","Prepandemic","1","N","Surveillance",57,"M","HCV","Y",33,"I","B",NA,"TACE",32.27,"Alive",NA,"Y","Consistent","US",1.53,NA,"1",1.53,0.8,"Y",6.633333333
+"Y","Prepandemic","1","N","Incidental",75,"M","NAFLD","Y",80,"IIIA+IIIB","D",NA,"Supportive care",4.73,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","1","N","Incidental",81,"F","No established CLD","N",100,"I","B",NA,"SIRT",24.4,"Dead","Primary care—routine","N",NA,NA,2.07,NA,"0",2.7,NA,"N",NA
+"Y","Prepandemic","1","N","Surveillance",82,"M","NAFLD","N",27,"IV","C",NA,"Supportive care",3.1,"Dead",NA,"Y","Consistent","AFP alone",NA,NA,"2",NA,NA,"Y",4.266666667
+"Y","Prepandemic","1","N","Surveillance",74,"M","NAFLD","Y",19,"II","C",NA,"TACE",23.17,"Dead",NA,"Y","Consistent","US",3.83,NA,"2",7.23,NA,"Y",6.233333333
+"Y","Prepandemic","1","N","Incidental",76,"M","NAFLD","N",150,"IIIA+IIIB","C",NA,"Supportive care",4.8,"Dead","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","2","N","Surveillance",66,"M","ARLD","Y",23,"IIIA+IIIB","A",NA,"Medical",15.53,"Dead",NA,"Y","Consistent","US",12.53,NA,"1",4.4,NA,"Y",6.3
+"Y","Prepandemic","2","N","Incidental",78,"F","NAFLD","N",40,"I","B",NA,"Medical",13.87,"Dead","Secondary care—routine","N",NA,NA,2.23,NA,"1",2.23,0.23,"N",NA
+"Y","Prepandemic","2","N","Surveillance",82,"F","PBC/AIH","Y",19,"I","0",NA,"Supportive care",31.83,"Alive",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"Y",5.333333333
+"Y","Prepandemic","2","N","Symptomatic",71,"F","ARLD","Y",54,"I","D",NA,"Supportive care",7.1,"Dead",NA,"N",NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"Y","Prepandemic","2","N","Symptomatic",66,"M","NAFLD","N",110,"IIIA+IIIB","B",NA,"SIRT",7.2,"Dead",NA,"N",NA,NA,3.2,NA,"1",3.23,1.2,"N",NA
+"Y","Prepandemic","2","N","Incidental",73,"M","NAFLD","Y",14,"II","A",NA,"Ablation",31.83,"Alive","Primary care—acute","N",NA,NA,NA,NA,"0",0.93,0.23,"N",NA
+"Y","Prepandemic","2","N","Incidental",86,"M","NAFLD","Y",55,"II","C",NA,"TACE",16.1,"Dead","Secondary care—acute","N",NA,NA,3.17,NA,"2",4.07,NA,"N",NA
+"Y","Prepandemic","2","N","Surveillance",77,"M","ARLD","Y",11,"I","D",NA,"Supportive care",11.3,"Dead",NA,"Y","Consistent","US",NA,NA,"1",NA,NA,"Y",4.166666667
+"Y","Prepandemic","2","N","Surveillance",57,"M","ARLD","Y",30,"IIIA+IIIB","D",NA,"Supportive care",7.03,"Dead","Secondary care—acute","Y","Consistent","US",NA,NA,"2",NA,NA,"Y",4.033333333
+"N","Prepandemic","2",NA,"Surveillance",64,"F","PBC/AIH","Y",22,"I","C","II","Ablation",31.77,"Alive",NA,"Y","Consistent","AFP alone",1.6,NA,"2",1.6,NA,"Y",3.766666667
+"Y","Prepandemic","2","N","Incidental",85,"M","HH","N",90,"IIIA+IIIB","C",NA,"Medical",31.13,"Alive","Secondary care—acute","N",NA,NA,1.63,NA,"0",2.03,NA,NA,NA
+"Y","Prepandemic","2","N","Surveillance",73,"M","ARLD","Y",70,"IIIA+IIIB","C",NA,"Supportive care",8.77,"Dead",NA,"Y","Consistent","AFP alone",NA,NA,"3",NA,NA,"Y",2.566666667
+"Y","Prepandemic","2","N","Incidental",78,"M","NAFLD","N",28,"I","A",NA,"TACE",31.13,"Alive","Secondary care—routine","N",NA,NA,2.03,NA,"0",5,NA,"N",NA
+"Y","Prepandemic","3","N","Surveillance",76,"M","NAFLD","Y",45,"I","A",NA,"TACE",30.9,"Alive",NA,"Y","Consistent","US",3.47,NA,"0",10.23,NA,"Y",5.8
+"Y","Prepandemic","3","N","Incidental",54,"M","NAFLD","Y",20,"I","A",NA,"Ablation",30.9,"Alive","Primary care—acute","N",NA,NA,2.07,NA,"0",2.07,2.07,"N",NA
+"Y","Prepandemic","3","N","Surveillance",72,"M","ARLD","Y",24,"I","C",NA,"Ablation",13,"Dead",NA,"Y","Consistent","AFP alone",3.87,NA,"1",3.9,NA,"Y",3.2
+"Y","Prepandemic","3","N","Symptomatic",63,"M","ARLD","Y",44,"IIIA+IIIB","A",NA,"Supportive care",8.97,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"Y","Prepandemic","3","N","Incidental",67,"F","PBC/AIH","Y",70,"IV","C",NA,"Supportive care",0.13,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"Y","Prepandemic","3","N","Incidental",84,"M","No established CLD","N",150,"I","C",NA,"Supportive care",1.27,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","3","N","Symptomatic",55,"F","HCV","Y",40,"II","C",NA,"Supportive care",12.1,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","3","N","Incidental",68,"M","ARLD","Y",16,"IIIA+IIIB","C",NA,"Supportive care",0.9,"Dead","Primary care—routine","N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Prepandemic","3","N","Symptomatic",66,"M","No established CLD","N",NA,"IV","D",NA,"Supportive care",0,"Dead",NA,"N",NA,NA,NA,NA,"4",NA,NA,"N",NA
+"Y","Prepandemic","3","N","Surveillance",54,"M","ARLD","Y",35,"II","C",NA,"TACE",29.3,"Dead",NA,"Y","Missed","US",1.77,NA,"1",2.23,NA,"Y",58.8
+"Y","Prepandemic","3","N","Symptomatic",89,"M","NAFLD","Y",20,"I","A",NA,"TACE",21.73,"Dead",NA,"N",NA,NA,NA,NA,"1",3.37,1.4,"N",NA
+"Y","Prepandemic","3","N","Incidental",75,"M","ARLD","Y",94,"I","C",NA,"SIRT",30.2,"Alive","Primary care—routine","N",NA,NA,3.13,NA,"1",2.67,NA,"Y",NA
+"Y","Prepandemic","3","N","Surveillance",87,"F","NAFLD","Y",48,"IIIA+IIIB","B",NA,"Supportive care",5.23,"Dead",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"Y",9.833333333
+"Y","Prepandemic","3","N","Incidental",73,"M","NAFLD","Y",70,"IIIA+IIIB","C",NA,"Supportive care",4.23,"Dead","Secondary care—acute","Y","Consistent",NA,NA,NA,"2",NA,NA,"Y",1.533333333
+"Y","Prepandemic","4","N","Surveillance",77,"F","NAFLD","Y",22,"II","B",NA,"TACE",24.4,"Dead",NA,"Y","Consistent","US",0.87,NA,"1",0.87,0.87,"Y",5.8
+"Y","Prepandemic","4","N","Surveillance",70,"F","ARLD","Y",10,"I","A",NA,"Ablation",29.77,"Alive",NA,"Y","Consistent","US",NA,NA,"1",1.63,1.6,"Y",6.033333333
+"Y","Prepandemic","4","N","Surveillance",77,"M","ARLD","Y",28,"I","A",NA,"Ablation",29.77,"Alive",NA,"Y","Consistent","US",NA,NA,"2",0.83,0.4,"Y",5.233333333
+"Y","Prepandemic","4","N","Incidental",69,"M","ARLD","N",40,"I","A",NA,"TACE",29.77,"Alive","Secondary care—acute","Y","Consistent",NA,2.6,NA,"0",3.47,NA,"Y",6
+"Y","Prepandemic","4","N","Surveillance",53,"M","ARLD","Y",100,"IV","C",NA,"Supportive care",0.97,"Dead",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"Y",7.533333333
+"Y","Prepandemic","4","N","Surveillance",43,"M","ARLD","Y",16,"I","A",NA,"OLTx",29.77,"Alive",NA,"Y","Consistent","US",NA,NA,"0",15,7.43,"Y",5.766666667
+"Y","Prepandemic","4","N","Surveillance",81,"M","ARLD","Y",30,"I","B",NA,"TACE",29.77,"Alive",NA,"Y","Consistent","AFP alone",NA,NA,"2",8.13,1.03,"Y",6.733333333
+"Y","Prepandemic","4","N","Symptomatic",75,"M","ARLD","Y",NA,"IV","C",NA,"Supportive care",4.4,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","4","N","Symptomatic",65,"M","HCV","Y",100,"IIIA+IIIB","D",NA,"Supportive care",4.33,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","4","N","Symptomatic",71,"M","NAFLD","Y",120,"IIIA+IIIB","B",NA,"Supportive care",5.07,"Dead",NA,"N",NA,NA,NA,NA,NA,NA,NA,"N",NA
+"Y","Prepandemic","4","N","Surveillance",64,"M","ARLD","Y",100,"IIIA+IIIB","D",NA,"Supportive care",0.17,"Dead",NA,"Y","Consistent","US",NA,NA,"2",NA,NA,"Y",8.466666667
+"Y","Prepandemic","4","N","Symptomatic",82,"F","NAFLD","Y",45,"I","D",NA,"Supportive care",1.33,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"Y","Prepandemic","4","N","Surveillance",41,"F","ARLD","Y",11,"I","C",NA,"Ablation",29.3,"Alive",NA,"Y","Inconsistent","US",13.57,NA,"1",1.6,1.57,"Y",7.833333333
+"Y","Prepandemic","4","N","Surveillance",86,"M","HH","Y",NA,"IV","D",NA,"Supportive care",4.5,"Dead",NA,"Y","Missed","US",NA,NA,"2",NA,NA,"N",37
+"Y","Prepandemic","4","N","Surveillance",78,"F","ARLD","Y",17,"II","A",NA,"Ablation",15.67,"Dead",NA,"Y","Consistent","US",4.1,NA,"0",4.23,NA,"Y",5.633333333
+"Y","Prepandemic","4","N","Incidental",61,"M","ARLD","Y",33,"IV","C",NA,"Medical",29.07,"Alive","Secondary care—routine","N",NA,NA,2.47,NA,"0",3.8,NA,"N",NA
+"Y","Prepandemic","4","N","Incidental",71,"M","HCV","N",28,"IIIA+IIIB","A",NA,"Medical",14.03,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",3.8,2.2,"N",NA
+"Y","Prepandemic","4","N","Surveillance",70,"M","NAFLD","Y",21,"I","A",NA,"Ablation",29.07,"Alive",NA,"Y","Consistent","US",0,NA,"0",2.5,NA,"Y",11.13333333
+"Y","Prepandemic","4","N","Incidental",71,"M","ARLD","Y",22,"I","A",NA,"TACE",29.07,"Alive","Secondary care—acute","N",NA,NA,1.6,NA,"0",1.6,NA,"N",NA
+"Y","Prepandemic","4","N","Symptomatic",48,"M","HCV","Y",72,"IV","C",NA,"Supportive care",29.07,"Alive",NA,"N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Incidental",75,"M","ARLD","Y",31,"IV","C",NA,"TACE",28.83,"Alive","Secondary care—routine","Y","Consistent",NA,1.83,NA,"1",1.13,NA,"Y",6.166666667
+"Y","Prepandemic","5","N","Incidental",73,"M","NAFLD","Y",26,"I","A",NA,"TACE",28.83,"Alive","Primary care—routine","N",NA,NA,1.6,NA,"0",1.83,1.37,"N",NA
+"Y","Prepandemic","5","N","Incidental",76,"M","No established CLD","N",130,"IV","D",NA,"Supportive care",2.17,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Surveillance",82,"F","NAFLD","Y",18,"I","A",NA,"Supportive care",13.07,"Dead",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"Y",4.266666667
+"Y","Prepandemic","5","N","Incidental",74,"M","NAFLD","N",80,"I","B",NA,"SIRT",22.8,"Dead","Primary care—routine","N",NA,NA,1.73,NA,"0",2.47,NA,"N",NA
+"Y","Prepandemic","5","N","Symptomatic",79,"M","NAFLD","N",NA,"IIIA+IIIB","D",NA,"Supportive care",0.93,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Surveillance",61,"F","ARLD","Y",18,"I","C",NA,"Ablation",28.6,"Alive",NA,"Y","Consistent","AFP alone",3,NA,"2",3.67,NA,"Y",6.166666667
+"Y","Prepandemic","5","N","Incidental",81,"M","No established CLD","N",60,"IIIA+IIIB","C",NA,"Supportive care",3.4,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Symptomatic",82,"M","NAFLD","Y",100,"IIIA+IIIB","C",NA,"Supportive care",7.1,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Incidental",60,"M","NAFLD","Y",41,"I","B",NA,"OLTx",28.37,"Alive","Secondary care—routine","Y","Consistent",NA,1.13,NA,"0",1.13,NA,"Y",5.6
+"Y","Prepandemic","5","N","Symptomatic",83,"M","NAFLD","Y",37,"I","C",NA,"Supportive care",7.8,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Incidental",71,"F","ARLD","N",14,"I","A",NA,"Ablation",28.37,"Alive","Secondary care—acute","N",NA,NA,0,NA,"0",2.5,NA,"N",NA
+"Y","Prepandemic","5","N","Incidental",90,"M","NAFLD","Y",33,"I","A",NA,"Supportive care",10.9,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Symptomatic",67,"M","NAFLD","Y",14,"II","D",NA,"Supportive care",6.73,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"Y","Prepandemic","5","N","Symptomatic",80,"M","No established CLD","N",114,"I","C",NA,"Supportive care",5.47,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","5","N","Incidental",69,"M","ARLD","Y",14,"I","A",NA,"TACE",28.13,"Alive","Secondary care—acute","Y","Inconsistent",NA,4.93,NA,"1",4.93,NA,"Y",6.066666667
+"Y","Prepandemic","5","N","Incidental",78,"M","NAFLD","N",25,"II","C",NA,"TACE",28.13,"Alive","Primary care—acute","N",NA,NA,2.53,NA,"1",3.17,NA,"N",NA
+"Y","Prepandemic","6","N","Incidental",68,"F","No established CLD","N",95,"IIIA+IIIB","C",NA,"Supportive care",17.17,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","6","N","Surveillance",70,"M","NAFLD","Y",23,"II","C",NA,"Supportive care",27.93,"Alive",NA,"Y","Consistent","US",NA,NA,"1",NA,NA,"Y",8.3
+"Y","Prepandemic","6","N","Incidental",87,"M","NAFLD","N",100,"IIIA+IIIB","C",NA,"Supportive care",27.93,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","6","N","Surveillance",54,"M","HCV","Y",40,"II","C",NA,"TACE",17.87,"Dead",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"N",26.7
+"Y","Prepandemic","6","N","Incidental",55,"M","HCV","Y",NA,"IV","C",NA,"Medical",5.8,"Dead","Primary care—acute","N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Prepandemic","6","N","Incidental",61,"F","HCV","Y",20,"II","D",NA,"Supportive care",7.2,"Dead","Secondary care—acute","Y","Inconsistent",NA,NA,NA,"3",NA,NA,"Y",0.733333333
+"Y","Prepandemic","6","N","Incidental",76,"F","PBC/AIH","Y",30,"II","C",NA,"SIRT",20.3,"Dead","Secondary care—acute","N",NA,NA,6.3,NA,"1",5.47,0,"Y",NA
+"Y","Prepandemic","6","N","Incidental",66,"M","ARLD","Y",32,"II","D",NA,"OLTx",27.7,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","6","N","Surveillance",61,"F","HCV","Y",21,"I","A",NA,"Ablation",27.7,"Alive",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"Y",6.8
+"Y","Prepandemic","6","N","Symptomatic",62,"F","HCV","Y",19,"IV","D",NA,"Supportive care",1.13,"Dead",NA,"Y","Inconsistent",NA,NA,NA,"3",NA,NA,"Y",5.6
+"Y","Prepandemic","6","N","Surveillance",81,"M","NAFLD","Y",40,"IV","C",NA,"Supportive care",8.87,"Dead",NA,"Y","Consistent","US",NA,NA,"1",NA,NA,"Y",6.1
+"Y","Prepandemic","6","Y","Symptomatic",82,"M","NAFLD","N",49,"IV","D",NA,"Supportive care",0.8,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,NA,NA
+"Y","Prepandemic","6","N","Symptomatic",77,"M","NAFLD","Y",50,"IIIA+IIIB","B",NA,"TACE",27.47,"Alive",NA,"N",NA,NA,1.3,NA,"0",1.33,NA,"N",NA
+"Y","Prepandemic","6","N","Incidental",74,"M","NAFLD","N",76,"I","C",NA,"TACE",19.1,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","6","N","Incidental",50,"M","NAFLD","Y",100,"IIIA+IIIB","B",NA,"SIRT",10.5,"Dead","Primary care—routine","N",NA,NA,1.93,NA,"0",1.73,NA,"N",NA
+"Y","Prepandemic","6","N","Symptomatic",80,"F","ARLD","Y",15,"I","D",NA,"Supportive care",2.63,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","6","N","Symptomatic",72,"M","HH","N",50,"IIIA+IIIB","C",NA,"SIRT",27,"Alive",NA,"N",NA,NA,4.47,NA,"1",5.27,NA,"N",NA
+"Y","Prepandemic","6","N","Surveillance",55,"M","PBC/AIH","Y",43,"IIIA+IIIB","C",NA,"OLTx",10.13,"Dead",NA,"Y","Consistent","US",1.8,NA,"1",1.8,NA,"Y",14.43333333
+"Y","Prepandemic","7","N","Incidental",91,"M","No established CLD","N",96,"IIIA+IIIB","C",NA,"Supportive care",11.33,"Dead","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Surveillance",76,"M","HH","N",31,"II","B",NA,"TACE",26.8,"Alive",NA,"Y","Consistent","US",1.17,NA,"0",1.53,NA,"N",5.666666667
+"Y","Prepandemic","7","N","Symptomatic",79,"F","PBC/AIH","N",12,"I","C",NA,"Supportive care",0.27,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Incidental",75,"M","No established CLD","N",75,"IIIA+IIIB","C",NA,"Supportive care",10.47,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Incidental",82,"M","No established CLD","N",90,"I","C",NA,"Supportive care",8.13,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Incidental",90,"M","No established CLD","N",60,"I","C",NA,"Supportive care",26.57,"Alive","Secondary care—routine","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Incidental",82,"M","NAFLD","N",21,"I","C",NA,"Supportive care",26.57,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Incidental",81,"M","ARLD","Y",37,"IIIA+IIIB","C",NA,"Supportive care",20.5,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"Y","Prepandemic","7","N","Incidental",65,"M","NAFLD","Y",80,"IIIA+IIIB","D",NA,"Supportive care",0.43,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Surveillance",60,"M","HCV","Y",20,"I","C",NA,"Ablation",2.63,"Dead",NA,"Y","Consistent","US",0,NA,"2",5.2,NA,"Y",5.9
+"Y","Prepandemic","7","N","Incidental",67,"M","NAFLD","Y",42,"IV","D",NA,"Supportive care",2.4,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"Y","Prepandemic","7","N","Incidental",82,"M","ARLD","Y",36,"IIIA+IIIB","D",NA,"Supportive care",11.8,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Incidental",72,"F","No established CLD","N",150,"I","C",NA,"SIRT",26.33,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"1",2.93,NA,"N",NA
+"Y","Prepandemic","7","N","Incidental",62,"F","HCV","Y",50,"IIIA+IIIB","C",NA,"Supportive care",4.5,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","7","N","Surveillance",78,"F","NAFLD","Y",24,"I","C",NA,"TACE",26.1,"Alive",NA,"Y","Consistent","US",5.77,NA,"2",5.8,NA,"Y",6.466666667
+"Y","Prepandemic","8","N","Surveillance",83,"F","NAFLD","Y",19,"I","C",NA,"Supportive care",25.87,"Alive",NA,"Y","Consistent","US",NA,NA,"2",NA,NA,"Y",6.266666667
+"Y","Prepandemic","8","N","Incidental",74,"M","HH","Y",36,"I","A",NA,"TACE",25.87,"Alive","Secondary care—acute","N",NA,NA,1.87,NA,"0",1.87,NA,"Y",NA
+"Y","Prepandemic","8","N","Incidental",69,"M","ARLD","N",40,"I","A",NA,"TACE",25.63,"Alive","Primary care—routine","N",NA,NA,8.4,NA,"0",8.53,NA,"N",NA
+"Y","Prepandemic","8","N","Symptomatic",82,"M","NAFLD","N",25,"I","A",NA,"TACE",25.63,"Alive",NA,"N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Prepandemic","8","N","Surveillance",79,"F","NAFLD","Y",35,"I","A",NA,"Supportive care",25.63,"Alive",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"Y",4.366666667
+"Y","Prepandemic","8","N","Surveillance",56,"M","HBV","N",32,"I","C",NA,"TACE",25.63,"Alive",NA,"Y","Consistent","AFP alone",NA,NA,"1",NA,NA,"N",8.933333333
+"Y","Prepandemic","8","N","Symptomatic",91,"M","No established CLD","N",47,"I","D",NA,"Supportive care",2.77,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","8","N","Incidental",68,"F","No established CLD","N",100,"IV","C",NA,"Supportive care",0.53,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","8","N","Incidental",67,"M","NAFLD","Y",34,"I","C",NA,"TACE",25.4,"Alive","Secondary care—acute","N",NA,NA,2.5,NA,"1",1.73,NA,"N",NA
+"Y","Prepandemic","8","N","Surveillance",60,"M","ARLD","Y",27,"IIIA+IIIB","C",NA,"TACE",21.9,"Dead",NA,"Y","Inconsistent","US",NA,NA,"2",NA,NA,"Y",18.86666667
+"Y","Prepandemic","8","N","Incidental",61,"M","ARLD","Y",32,"I","A",NA,"OLTx",25.17,"Alive","Primary care—routine","N",NA,NA,9.23,NA,"0",8.53,NA,"N",NA
+"Y","Prepandemic","8","N","Symptomatic",71,"M","No established CLD","N",70,"IV","C",NA,"Supportive care",0.73,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","8","N","Surveillance",44,"M","HCV","Y",18,"II","A",NA,"TACE",25.17,"Alive",NA,"Y","Inconsistent","US",0.93,NA,"0",1.07,NA,"Y",27.53333333
+"Y","Prepandemic","8","N","Surveillance",65,"M","ARLD","Y",24,"II","B",NA,"TACE",25.17,"Alive",NA,"Y",NA,"US",2.03,NA,"0",1.03,NA,"Y",3.933333333
+"Y","Prepandemic","8","N","Incidental",71,"M","ARLD","Y",10,"IV","C",NA,"Supportive care",3.13,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","8","N","Symptomatic",67,"M","ARLD","Y",16,"I","D",NA,"Supportive care",2.3,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"Y","Prepandemic","9","N","Surveillance",48,"M","HCV","N",18,"IV","C",NA,"Medical",24.73,"Alive",NA,"Y","Consistent","US",NA,NA,"0",NA,NA,"N",6.133333333
+"Y","Prepandemic","9","N","Incidental",80,"M","NAFLD","Y",80,"IIIA+IIIB","C",NA,"Medical",24.73,"Alive","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","9","N","Symptomatic",73,"M","ARLD","N",60,"IIIA+IIIB","C",NA,"Supportive care",2.87,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","9","N","Symptomatic",58,"F","ARLD","Y",70,"IIIA+IIIB","D",NA,"Supportive care",-0.03,"Dead",NA,"Y","Missed",NA,NA,NA,"2",NA,NA,"Y",17.3
+"Y","Prepandemic","9","N","Surveillance",74,"F","NAFLD","Y",14,"I","D",NA,"Supportive care",24.5,"Alive",NA,"Y","Consistent","US",NA,NA,"2",NA,NA,"Y",10.6
+"Y","Prepandemic","9","N","Surveillance",60,"M","HCV","Y",NA,"IIIA+IIIB","C",NA,"Supportive care",1.27,"Dead",NA,"Y","Consistent","AFP alone",NA,NA,"1",NA,NA,"Y",6
+"Y","Prepandemic","9","N","Surveillance",75,"F","PBC/AIH","Y",24,"I","C",NA,"TACE",24.5,"Alive",NA,"Y","Consistent","AFP alone",0.93,NA,"1",0.93,NA,"Y",5.7
+"Y","Prepandemic","9","N","Surveillance",73,"M","NAFLD","Y",26,"I","A",NA,"TACE",24.5,"Alive",NA,"Y","Consistent","US",13.03,NA,"0",1.57,NA,"Y",4.8
+"Y","Prepandemic","9","N","Symptomatic",56,"F","ARLD","Y",80,"I","D",NA,"Supportive care",5.47,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"Y","Prepandemic","9","N","Incidental",75,"M","ARLD","Y",NA,"IV","C",NA,"Supportive care",3.3,"Dead","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","9","N","Surveillance",72,"M","ARLD","Y",42,"I","A",NA,"TACE",24.27,"Alive",NA,"Y","Consistent","US",0.53,NA,"0",0.5,NA,"Y",9.566666667
+"Y","Prepandemic","9","N","Symptomatic",77,"F","ARLD","Y",90,"II","C",NA,"Ablation",24.27,"Alive",NA,"N",NA,NA,NA,NA,"1",NA,NA,NA,NA
+"Y","Prepandemic","9","N","Incidental",77,"M","No established CLD","N",20,"I","C",NA,"TACE",5.63,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","9","N","Incidental",79,"F","No established CLD","N",20,"I","D",NA,"Supportive care",24.27,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","9","N","Surveillance",55,"M","HCV","Y",15,"I","C",NA,"Ablation",24.03,"Alive",NA,"Y",NA,"US",5.1,NA,"1",4.1,NA,"Y",NA
+"Y","Prepandemic","9","N","Incidental",73,"M","ARLD","Y",44,"II","C",NA,"Supportive care",1.03,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,NA,NA
+"Y","Prepandemic","9","N","Incidental",85,"F","NAFLD","N",53,"I","A",NA,"Resection",24.03,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Prepandemic","9","N","Surveillance",81,"M","NAFLD","Y",35,"II","C",NA,"Supportive care",13.63,"Dead",NA,"Y","Consistent","AFP alone",NA,NA,"2",NA,NA,"Y",5.966666667
+"Y","Prepandemic","10","N","Symptomatic",75,"M","ARLD","Y",150,"IV","C",NA,"Medical",4.17,"Dead",NA,"N",NA,NA,4.87,NA,"1",1.87,NA,"Y",NA
+"Y","Prepandemic","10","N","Symptomatic",62,"F","No established CLD","N",107,"I","B",NA,"Resection",23.8,"Alive",NA,"N",NA,NA,1.3,NA,"0",1.07,NA,"N",NA
+"Y","Prepandemic","10","N","Symptomatic",71,"M","ARLD","Y",10,"I","A",NA,"TACE",23.8,"Alive","Secondary care—routine","Y","Inconsistent",NA,4.77,NA,"0",0.87,NA,"Y",10.7
+"Y","Prepandemic","10","N","Symptomatic",72,"M","NAFLD","Y",27,"IIIA+IIIB","C",NA,"Supportive care",23.8,"Alive",NA,"N",NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"Y","Prepandemic","10","N","Incidental",70,"M","ARLD","Y",55,"II","D",NA,"Supportive care",4,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","10","N","Symptomatic",77,"M","ARLD","Y",200,"IV","C",NA,"Supportive care",1.83,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,NA,NA
+"Y","Prepandemic","10","N","Surveillance",62,"M","ARLD","Y",10,"I","C",NA,"TACE",23.57,"Alive",NA,"Y","Consistent","AFP alone",NA,NA,"2",NA,NA,"Y",5.3
+"Y","Prepandemic","10","N","Symptomatic",70,"M","ARLD","Y",50,"II","C",NA,"TACE",23.57,"Alive",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","10","N","Surveillance",65,"M","ARLD","Y",20,"I","A",NA,"Ablation",23.33,"Alive",NA,"Y","Consistent","AFP alone",NA,NA,"0",NA,NA,"Y",27.86666667
+"Y","Prepandemic","11","N","Incidental",84,"F","NAFLD","Y",40,"IIIA+IIIB","C",NA,"Supportive care",3.73,"Dead","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Incidental",80,"F","NAFLD","N",20,"I","D",NA,"Supportive care",22.67,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Surveillance",52,"M","NAFLD","Y",59,"IIIA+IIIB","D",NA,"TACE",12.17,"Dead",NA,"Y","Consistent","AFP alone",6.17,NA,"4",3.87,1.1,"N",18.46666667
+"Y","Prepandemic","11","N","Incidental",77,"M","NAFLD","N",55,"I","C",NA,"Resection",22.67,"Alive","Secondary care—acute","N",NA,NA,2.33,NA,"1",3.37,NA,"N",NA
+"Y","Prepandemic","11","N","Surveillance",73,"M","NAFLD","Y",15,"IIIA+IIIB","C",NA,"Supportive care",22.67,"Alive",NA,"Y","Missed","CT/MRI",NA,NA,"2",NA,NA,"Y",12.6
+"Y","Prepandemic","11","N","Symptomatic",73,"M","No established CLD","N",133,"I","D",NA,"SIRT",21.33,"Dead",NA,"N",NA,NA,1.9,NA,"3",2.5,1.7,"N",NA
+"Y","Prepandemic","11","N","Incidental",89,"M","No established CLD","Y",80,"IIIA+IIIB","D",NA,"Supportive care",0.2,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Symptomatic",51,"M","ARLD","Y",60,"IIIA+IIIB","D",NA,"Supportive care",0.1,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"Y","Prepandemic","11","N","Symptomatic",80,"M","NAFLD","Y",28,"II","C",NA,"Supportive care",14.1,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Incidental",80,"M","NAFLD","N",29,"I","D",NA,"Supportive care",22.43,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Incidental",72,"M","ARLD","Y",35,"I","A",NA,"TACE",22.2,"Alive","Secondary care—acute","N",NA,NA,1.4,NA,"0",0.6,0.83,"Y",NA
+"Y","Prepandemic","11","N","Incidental",78,"M","No established CLD","N",92,"IIIA+IIIB","C",NA,"Supportive care",22.2,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Incidental",74,"M","No established CLD","Y",18,"I","C",NA,"Supportive care",0.5,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Surveillance",65,"M","ARLD","Y",32,"II","A",NA,"TACE",22.2,"Alive",NA,"Y","Consistent","AFP alone",1.5,NA,"0",0.83,0.5,"Y",2.633333333
+"Y","Prepandemic","11","N","Symptomatic",65,"M","ARLD","Y",78,"IIIA+IIIB","C",NA,"Supportive care",4.3,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","11","N","Incidental",74,"M","NAFLD","N",40,"IIIA+IIIB","C",NA,"Supportive care",2.9,"Dead","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","12","N","Symptomatic",65,"M","HH","N",110,"I","A",NA,"Supportive care",21.77,"Alive",NA,"N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Prepandemic","12","N","Incidental",85,"M","NAFLD","Y",30,"I","C",NA,"Supportive care",20.67,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","12","N","Symptomatic",70,"M","ARLD","Y",48,"II","C",NA,"Supportive care",0.6,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"Y","Prepandemic","12","N","Incidental",83,"F","NAFLD","N",84,"IIIA+IIIB","A",NA,"SIRT",21.5,"Dead","Primary care—routine","N",NA,NA,3.47,NA,"0",2.8,1.47,"N",NA
+"Y","Prepandemic","12","N","Surveillance",56,"M","HBV","N",14,"I","A",NA,"Ablation",21.77,"Alive",NA,"Y","Consistent","US",0,NA,"0",0.97,0.97,"N",3.7
+"Y","Prepandemic","12","N","Incidental",67,"M","HCV","N",18,"I","A",NA,"Ablation",21.77,"Alive","Secondary care—routine","N",NA,NA,0,NA,"0",1.67,1.43,"N",NA
+"Y","Prepandemic","12","N","Surveillance",64,"M","NAFLD","Y",75,"IIIA+IIIB","D",NA,"Supportive care",7.03,"Dead",NA,"Y","Missed","US",NA,NA,"3",NA,NA,"Y",40.93333333
+"Y","Prepandemic","12","N","Symptomatic",66,"M","ARLD","Y",38,"II","D",NA,"Supportive care",21.53,"Alive",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Prepandemic","12","N","Surveillance",83,"F","PBC/AIH","Y",18,"II","C",NA,"TACE",21.53,"Alive",NA,"Y","Consistent","AFP alone",4.13,NA,"1",2.27,1.63,"Y",6.333333333
+"Y","Prepandemic","12","N","Surveillance",55,"M","HCV","Y",16,"I","C",NA,"Ablation",21.53,"Alive",NA,"Y",NA,"US",3.07,NA,"1",2.37,1.9,"Y",NA
+"Y","Prepandemic","12","N","Symptomatic",69,"M","ARLD","Y",54,"I","D",NA,"Supportive care",6.47,"Dead",NA,"Y","Missed",NA,NA,NA,"3",NA,NA,"Y",24.7
+"Y","Prepandemic","12","N","Surveillance",65,"F","PBC/AIH","Y",14,"I","D",NA,"Supportive care",20.53,"Dead",NA,"Y","Missed","US",NA,NA,"1",NA,NA,"Y",14.63333333
+"Y","Prepandemic","12","N","Incidental",65,"M","HCV","Y",NA,"IIIA+IIIB","D",NA,"Supportive care",5.23,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Prepandemic","12","N","Surveillance",61,"M","ARLD","Y",20,"I","C",NA,"Ablation",21.3,"Alive",NA,"Y","Consistent","US",0.03,NA,"1",6.27,4.17,"Y",7.466666667
+"Y","Prepandemic","12","N","Symptomatic",77,"F","NAFLD","N",70,"IV","C",NA,"Supportive care",7.83,"Dead",NA,"N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Prepandemic","12","N","Surveillance",73,"M","NAFLD","Y",48,"II","A",NA,"Supportive care",5.07,"Dead",NA,"Y","Consistent","AFP alone",NA,NA,"0",NA,NA,"Y",0.33
+"Y","Prepandemic","12","N","Surveillance",62,"M","HCV","Y",22,"II","D",NA,"Supportive care",9.87,"Dead",NA,"Y","Missed","US",NA,NA,"3",NA,NA,"Y",16.56666667
+"Y","Prepandemic","12","N","Surveillance",54,"M","HBV","Y",60,"IIIA+IIIB","C",NA,"SIRT",21.3,"Alive",NA,"Y","Inconsistent","US",1.87,NA,"1",2.33,1.87,"Y",13.23333333
+"Y","Prepandemic","12","N","Incidental",66,"M","NAFLD","Y",18,"I","C",NA,"Ablation",21.07,"Alive","Primary care—routine","N",NA,NA,0,NA,"1",2.1,0.93,"Y",NA
+"Y","Prepandemic","12","N","Incidental",68,"M","NAFLD","Y",64,"IIIA+IIIB","C",NA,"Supportive care",10.47,"Dead","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Prepandemic","12","N","Symptomatic",79,"F","NAFLD","N",95,"IIIA+IIIB","D",NA,"Supportive care",1.07,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","1","N","Surveillance",54,"M","HCV","Y",36,"IV","C",NA,"TACE",20.57,"Alive",NA,"Y","Consistent","US",2.27,"N","0",1.27,1.23,"Y",5.933333333
+"Y","Pandemic","1","N","Surveillance",45,"F","ARLD","Y",13,"II","A",NA,"Ablation",20.33,"Alive",NA,"Y","Consistent","US",3.07,"N","0",1.1,0.67,"Y",3.833333333
+"Y","Pandemic","1","N","Symptomatic",66,"M","No established CLD","N",210,"IV","C",NA,"Supportive care",20.33,"Alive",NA,"N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Pandemic","2","N","Symptomatic",82,"M","ARLD","Y",75,"I","A",NA,"SIRT",16,"Dead",NA,"N","Missed",NA,NA,NA,"0",1.87,1.73,"N",NA
+"Y","Pandemic","2","N","Symptomatic",69,"M","No established CLD","N",19,"II","C",NA,"Supportive care",2.13,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","2","N","Symptomatic",58,"M","HCV","Y",58,"IIIA+IIIB","B",NA,"SIRT",4.63,"Dead",NA,"Y","Missed",NA,1.3,"Y","0",1.73,0.8,"Y",67.73333333
+"Y","Pandemic","2","N","Incidental",77,"M","ARLD","Y",39,"IIIA+IIIB","D",NA,"Supportive care",2.1,"Dead","Primary care—routine","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","2","N","Incidental",75,"M","NAFLD","N",150,"IIIA+IIIB","D",NA,"Supportive care",0.97,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","2","Y","Symptomatic",96,"M","NAFLD","N",75,"I","C",NA,"Supportive care",19.43,"Alive",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","2","N","Surveillance",68,"M","ARLD","Y",30,"II","C",NA,"TACE",17.47,"Dead",NA,"Y","Missed","AFP alone",1.27,"Y","1",0.37,0.37,"Y",6.666666667
+"Y","Pandemic","2","N","Surveillance",78,"M","Other","Y",120,"IIIA+IIIB","C",NA,"SIRT",19.43,"Alive",NA,"Y","Consistent","US",2.13,"Y","0",1.77,1.63,"Y",5.733333333
+"Y","Pandemic","2","N","Surveillance",76,"M","NAFLD","Y",30,"II","C",NA,"Medical",19.2,"Alive",NA,"Y","Inconsistent","US",1.47,"N","1",1.8,0.4,"Y",NA
+"Y","Pandemic","2","N","Surveillance",66,"M","ARLD","Y",28,"II","C",NA,"Ablation",19.2,"Alive",NA,"Y","Consistent","US",2.83,"N","2",1.6,1.13,"Y",5.9
+"Y","Pandemic","2","N","Symptomatic",65,"M","ARLD","Y",32,"II","D",NA,"Supportive care",4.37,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","2","N","Incidental",62,"M","NAFLD","N",20,"II","A",NA,"Ablation",18.97,"Alive","Secondary care—routine","N",NA,NA,1.2,NA,"0",2.3,0.73,"N",NA
+"Y","Pandemic","2","N","Symptomatic",76,"M","NAFLD","Y",50,"IIIA+IIIB","C",NA,"Supportive care",18.97,"Alive",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","3","N","Symptomatic",81,"M","No established CLD","N",70,"IIIA+IIIB","C",NA,"Supportive care",2.27,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","3","N","Symptomatic",75,"M","No established CLD","N",100,"I","C",NA,"Supportive care",7.57,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","3","N","Incidental",78,"M","No established CLD","N",50,"I","D",NA,"SIRT",18.5,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","3","N","Incidental",70,"M","ARLD","N",40,"I","A",NA,"TACE",14.57,"Alive","Primary care—routine","N",NA,NA,1.4,NA,"0",1.4,0.73,"N",NA
+"Y","Pandemic","3","N","Surveillance",60,"M","HH","Y",18,"IIIA+IIIB","C",NA,"TACE",18.27,"Alive",NA,"Y","Consistent","US",NA,"N","0",NA,NA,"Y",NA
+"Y","Pandemic","3","N","Symptomatic",77,"M","ARLD","Y",55,"IV","D",NA,"Supportive care",1.43,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","4","N","Incidental",78,"M","HH","N",92,"IIIA+IIIB","C",NA,"TACE",16.37,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","4","N","Surveillance",78,"F","NAFLD","N",51,"I","B",NA,"TACE",13.67,"Alive",NA,"Y",NA,"US",0.93,"Y","0",1.53,0.7,"N",NA
+"Y","Pandemic","4","N","Incidental",62,"M","ARLD","Y",20,"I","A",NA,"Ablation",17.6,"Alive","Secondary care—acute","N",NA,NA,2,NA,"0",3.67,0.7,"N",NA
+"Y","Pandemic","4","N","Surveillance",62,"M","ARLD","Y",65,"IIIA+IIIB","D",NA,"Supportive care",11.93,"Dead",NA,"Y","Consistent","US",NA,"Y","3",NA,NA,"Y",4.033333333
+"Y","Pandemic","4","N","Symptomatic",71,"M","NAFLD","N",87,"IV","C",NA,"Supportive care",1.8,"Dead",NA,"N",NA,NA,NA,NA,"4",NA,NA,"N",NA
+"Y","Pandemic","4","N","Incidental",62,"M","NAFLD","Y",70,"IIIA+IIIB","D",NA,"Supportive care",17.13,"Alive","Secondary care—acute","Y",NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"Y","Pandemic","4","N","Incidental",67,"M","No established CLD","N",89,"I","A",NA,"Resection",17.13,"Alive","Secondary care—routine","N",NA,NA,0.9,NA,"0",0.93,0.93,"N",NA
+"Y","Pandemic","5","N","Symptomatic",88,"M","ARLD","Y",37,"II","C",NA,"Supportive care",16.9,"Alive",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","5","N","Incidental",74,"M","NAFLD","N",60,"I","A",NA,"Resection",16.9,"Alive","Secondary care—routine","N",NA,NA,1.3,NA,"0",1.57,NA,"N",NA
+"Y","Pandemic","5","N","Symptomatic",71,"M","NAFLD","Y",50,"IIIA+IIIB","D",NA,"Supportive care",4.13,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","5","N","Incidental",62,"F","HCV","Y",21,"I","B",NA,"Ablation",16.67,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"1",2.5,1.6,"N",NA
+"Y","Pandemic","5","N","Surveillance",73,"M","NAFLD","Y",15,"I","C",NA,"Ablation",16.43,"Alive",NA,"Y","Consistent","US",1.2,"N","2",1.8,0.43,"Y",8.033333333
+"Y","Pandemic","5","N","Incidental",69,"M","NAFLD","Y",150,"IIIA+IIIB","D",NA,"Supportive care",0.63,"Dead","Primary care—routine","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","5","N","Incidental",71,"M","HH","Y",24,"II","D",NA,"Supportive care",5.73,"Dead","Secondary care—routine","Y","Inconsistent","CT/MRI",NA,NA,"2",NA,NA,"Y",9.633333333
+"Y","Pandemic","5","N","Incidental",78,"M","NAFLD","Y",32,"II","B",NA,"TACE",16.2,"Alive","Secondary care—routine","N",NA,NA,1.07,NA,"0",0.6,0.6,"N",NA
+"Y","Pandemic","5","N","Surveillance",64,"M","NAFLD","Y",60,"IIIA+IIIB","B",NA,"Medical",15.97,"Alive",NA,"Y","Consistent","US",NA,"N","0",NA,NA,"N",NA
+"Y","Pandemic","5","N","Symptomatic",85,"M","ARLD","Y",62,"I","C",NA,"Supportive care",15.97,"Alive",NA,"N",NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"Y","Pandemic","6","N","Incidental",85,"M","HH","N",28,"I","C",NA,"Ablation",15.77,"Alive","Secondary care—acute","N",NA,NA,1.13,NA,"1",1.33,0.63,"N",NA
+"Y","Pandemic","6","N","Surveillance",77,"F","PBC/AIH","Y",35,"I","C",NA,"TACE",7.77,"Dead",NA,"Y","Inconsistent","US",0.7,"Y","3",0.7,0.7,"Y",12
+"Y","Pandemic","6","N","Incidental",86,"M","NAFLD","N",70,"I","C",NA,"Supportive care",6.13,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","6","N","Symptomatic",46,"F","ARLD","Y",20,"II","D",NA,"Supportive care",15.53,"Alive",NA,"N",NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"Y","Pandemic","6","N","Symptomatic",65,"M","HH","Y",25,"I","C",NA,"Ablation",15.53,"Alive",NA,"Y","Consistent",NA,0,NA,"1",1.37,0.7,"Y",5.033333333
+"Y","Pandemic","6","N","Symptomatic",35,"M","NAFLD","Y",20,"I","C",NA,"Supportive care",2.37,"Dead",NA,"Y","Inconsistent",NA,NA,NA,"2",NA,NA,"N",11.26666667
+"Y","Pandemic","6","N","Incidental",79,"M","No established CLD","N",60,"I","C",NA,"Supportive care",15.3,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","6","N","Symptomatic",66,"F","ARLD","Y",32,"II","D",NA,"Supportive care",8.57,"Dead",NA,"Y","Missed",NA,NA,NA,"1",NA,NA,"Y",34.36666667
+"Y","Pandemic","6","N","Incidental",85,"M","No established CLD","N",100,"IV","C",NA,"Supportive care",15.07,"Alive","Primary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","6","N","Symptomatic",71,"M","ARLD","Y",15,"I","A",NA,"Ablation",15.07,"Alive",NA,"N",NA,NA,3.27,NA,"0",4.8,NA,"N",NA
+"Y","Pandemic","7","N","Surveillance",74,"F","NAFLD","Y",14,"I","D",NA,"Supportive care",14.87,"Alive",NA,"Y","Inconsistent","US",NA,"N","2",NA,NA,"Y",10.6
+"Y","Pandemic","7","N","Symptomatic",63,"M","ARLD","Y",19,"II","D",NA,"Supportive care",0,"Dead",NA,"Y","Missed",NA,NA,NA,"2",NA,NA,"Y",18.9
+"Y","Pandemic","7","N","Surveillance",59,"M","NAFLD","Y",30,"IIIA+IIIB","C",NA,"TACE",14.63,"Alive",NA,"Y","Consistent","CT/MRI",2.87,"N","2",2.2,0.9,"Y",6.633333333
+"Y","Pandemic","7","N","Symptomatic",64,"F","No established CLD","N",120,"IV","C",NA,"Supportive care",1.37,"Dead",NA,"N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Pandemic","7","N","Surveillance",67,"M","NAFLD","Y",36,"II","D",NA,"Supportive care",14.63,"Alive",NA,"Y","Consistent","US",NA,"Y","2",NA,NA,"Y",5.433333333
+"Y","Pandemic","7","N","Surveillance",83,"M","ARLD","Y",61,"IIIA+IIIB","C",NA,"Supportive care",7,"Dead",NA,"Y","Inconsistent","AFP alone",NA,"Y","2",NA,NA,"Y",6.333333333
+"Y","Pandemic","7","N","Symptomatic",63,"M","NAFLD","Y",24,"I","A",NA,"Ablation",14.63,"Alive",NA,"N",NA,NA,2.87,NA,"0",2.07,1.37,"N",NA
+"Y","Pandemic","7","N","Symptomatic",62,"F","NAFLD","Y",25,"IIIA+IIIB","D",NA,"Supportive care",1.07,"Dead",NA,"Y","Consistent",NA,NA,NA,"3",NA,NA,"Y",4.1
+"Y","Pandemic","7","N","Incidental",76,"M","No established CLD","N",14,"II","C",NA,"Supportive care",7.67,"Dead","Primary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","7","N","Surveillance",78,"M","HH","N",25,"II","A",NA,"Ablation",14.17,"Alive",NA,"Y","Missed","CT/MRI",1.67,"Y","0",2.07,1.37,"N",82.43333333
+"Y","Pandemic","7","N","Incidental",71,"M","NAFLD","Y",42,"I","A",NA,"TACE",14.17,"Alive","Secondary care—acute","N",NA,NA,1.57,NA,"0",2.23,0.83,"N",NA
+"Y","Pandemic","8","N","Symptomatic",79,"F","NAFLD","Y",23,"IV","C",NA,"Supportive care",7.7,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","8","N","Incidental",73,"M","NAFLD","Y",18,"I","A",NA,"Ablation",13.93,"Alive","Secondary care—acute","N",NA,NA,3,NA,"0",1.03,1.03,"N",NA
+"Y","Pandemic","8","N","Incidental",64,"F","ARLD","Y",43,"IIIA+IIIB","D",NA,"Supportive care",3.43,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","8","N","Surveillance",69,"M","ARLD","Y",30,"II","C",NA,"Supportive care",13.93,"Alive",NA,"Y","Consistent","US",NA,"N","1",NA,NA,"Y",5.933333333
+"Y","Pandemic","8","N","Incidental",83,"M","No established CLD","N",100,"I","C",NA,"Supportive care",5.63,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","8","N","Surveillance",67,"M","ARLD","Y",31,"I","A",NA,"TACE",13.7,"Alive",NA,"Y","Inconsistent","US",NA,"Y","0",NA,NA,"Y",8.1
+"Y","Pandemic","8","N","Incidental",56,"M","NAFLD","Y",28,"IIIA+IIIB","C",NA,"Supportive care",5.37,"Dead","Primary care—routine","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","8","N","Surveillance",73,"F","NAFLD","Y",20,"I","C",NA,"Supportive care",13.47,"Alive",NA,"Y","Consistent","US",NA,"Y","2",NA,NA,"Y",5.466666667
+"Y","Pandemic","8","N","Incidental",63,"M","ARLD","Y",44,"I","C",NA,"Supportive care",9.23,"Dead","Secondary care—routine","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","8","N","Incidental",72,"M","ARLD","Y",22,"II","C",NA,"Ablation",13.47,"Alive","Primary care—routine","N",NA,NA,2.27,NA,NA,2.27,2.03,"N",NA
+"Y","Pandemic","8","N","Surveillance",82,"M","NAFLD","Y",24,"IIIA+IIIB","C",NA,"TACE",13.47,"Alive",NA,"Y","Consistent","US",0.63,"Y","1",0.63,0.5,"Y",8.7
+"Y","Pandemic","8","N","Incidental",84,"M","NAFLD","Y",45,"II","C",NA,"Supportive care",0.2,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","8","N","Incidental",74,"M","NAFLD","N",32,"I","A",NA,"TACE",13.23,"Alive","Primary care—routine","N",NA,NA,1.4,NA,"0",2.03,0.53,"N",NA
+"Y","Pandemic","8","N","Symptomatic",76,"M","NAFLD","N",220,"IV","C",NA,"Supportive care",6.53,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","8","N","Surveillance",75,"F","NAFLD","Y",18,"I","C",NA,"Ablation",13.23,"Alive",NA,"Y","Inconsistent","US",0,"Y","1",2.5,1.83,"Y",9.433333333
+"Y","Pandemic","8","Y","Incidental",71,"M","HBV","N",104,"IIIA+IIIB","C",NA,"Supportive care",10.8,"Dead","Primary care—routine","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","8","N","Symptomatic",82,"M","NAFLD","N",200,"IV","C",NA,"Supportive care",1.3,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","9","N","Incidental",68,"M","NAFLD","N",50,"II","B",NA,"TACE",12.8,"Alive","Primary care—routine","N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Pandemic","9","N","Surveillance",78,"F","PBC/AIH","Y",13,"I","C",NA,"TACE",12.8,"Alive",NA,"Y","Inconsistent","US",NA,"Y","1",NA,NA,"N",9.066666667
+"Y","Pandemic","9","N","Symptomatic",70,"M","NAFLD","N",44,"I","A",NA,"TACE",12.8,"Alive",NA,"N",NA,NA,1.07,NA,"0",1.53,NA,"N",NA
+"Y","Pandemic","9","N","Surveillance",73,"M","NAFLD","Y",27,"II","A",NA,"Supportive care",12.8,"Alive",NA,"Y","Consistent","US",NA,"N","0",NA,NA,"Y",5.6
+"Y","Pandemic","9","N","Incidental",75,"M","No established CLD","N",75,"I","A",NA,"SIRT",12.57,"Alive","Primary care—routine","N",NA,NA,1.03,NA,"0",1.17,1.4,"N",NA
+"Y","Pandemic","9","N","Symptomatic",76,"M","ARLD","Y",50,"I","D",NA,"Supportive care",6.47,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","9","N","Incidental",71,"M","NAFLD","Y",54,"I","D",NA,"Supportive care",5.4,"Dead","Secondary care—acute","Y","Missed",NA,NA,NA,"3",NA,NA,"Y",19.2
+"Y","Pandemic","9","N","Surveillance",64,"M","HH","Y",17,"I","C",NA,"Ablation",12.33,"Alive",NA,"Y","Consistent","AFP alone",NA,"N","1",NA,NA,"Y",5.966666667
+"Y","Pandemic","9","N","Incidental",82,"M","NAFLD","N",60,"I","D",NA,"Supportive care",5.03,"Dead","Primary care—routine","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","9","N","Symptomatic",80,"M","NAFLD","Y",85,"IV","C",NA,"Supportive care",1.67,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"Y","Pandemic","9","N","Symptomatic",56,"M","ARLD","Y",NA,"IIIA+IIIB","D",NA,"Supportive care",0,"Dead",NA,"Y","Missed",NA,NA,NA,"3",NA,NA,"Y",21.2
+"Y","Pandemic","9","N","Incidental",78,"M","NAFLD","Y",75,"IV","D",NA,"Supportive care",2,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","10","N","Surveillance",63,"M","ARLD","Y",28,"II","A",NA,"OLTx",11.63,"Alive",NA,"Y","Inconsistent","AFP alone",2.83,"Y","0",1.87,1.5,"Y",11.53333333
+"Y","Pandemic","10","N","Surveillance",69,"F","NAFLD","Y",60,"IIIA+IIIB","C",NA,"Supportive care",6.63,"Dead",NA,"Y","Inconsistent","AFP alone",NA,"Y","0",NA,NA,"Y",8.266666667
+"Y","Pandemic","10","N","Symptomatic",80,"F","PBC/AIH","Y",42,"IIIA+IIIB","C",NA,"Medical",8.9,"Dead",NA,"Y","Missed",NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","10","N","Symptomatic",69,"M","ARLD","Y",20,"II","A",NA,"Ablation",10.97,"Alive",NA,"N",NA,NA,NA,NA,"0",3.5,NA,"N",NA
+"Y","Pandemic","11","N","Symptomatic",69,"M","No established CLD","N",210,"IIIA+IIIB","C",NA,"Medical",7.67,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","11","N","Symptomatic",70,"M","NAFLD","Y",36,"II","C",NA,"Medical",10.73,"Alive","Secondary care—acute","Y","Missed",NA,NA,NA,"1",NA,NA,"Y",14.93333333
+"Y","Pandemic","11","Y","Surveillance",63,"M","ARLD","Y",58,"IIIA+IIIB","D",NA,"Supportive care",4.97,"Dead",NA,"Y","Inconsistent","AFP alone",NA,"Y","0",NA,NA,"Y",9.466666667
+"Y","Pandemic","11","N","Symptomatic",61,"M","No established CLD","N",32,"I","A",NA,"Resection",10.73,"Alive",NA,"N",NA,NA,0.1,NA,"0",1.13,1.17,"N",NA
+"Y","Pandemic","11","N","Symptomatic",75,"M","NAFLD","Y",65,"IIIA+IIIB","C",NA,"Medical",10.5,"Alive",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","11","N","Incidental",76,"M","NAFLD","Y",140,"IIIA+IIIB","B",NA,"Medical",6.3,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Pandemic","11","N","Incidental",27,"M","Other","Y",14,"II","A",NA,"TACE",10.5,"Alive","Secondary care—routine","N",NA,NA,NA,NA,"0",NA,NA,"N",NA
+"Y","Pandemic","11","N","Symptomatic",41,"M","HBV","N",170,"IV","D",NA,"Supportive care",1.17,"Dead",NA,"N",NA,NA,NA,NA,"3",NA,NA,"N",NA
+"Y","Pandemic","11","N","Incidental",78,"M","ARLD","Y",48,"I","C",NA,"Supportive care",10.5,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","11","N","Symptomatic",72,"M","HH","N",77,"IIIA+IIIB","B",NA,"SIRT",10.5,"Alive",NA,"N",NA,NA,2.73,NA,"0",2.77,1.63,"N",NA
+"Y","Pandemic","11","N","Symptomatic",68,"M","NAFLD","N",150,"IIIA+IIIB","C",NA,"Supportive care",1.5,"Dead",NA,"N",NA,NA,1.73,NA,"1",1.67,1.1,"N",NA
+"Y","Pandemic","11","N","Surveillance",61,"M","HCV","Y",47,"II","C",NA,"TACE",5.6,"Dead",NA,"Y",NA,"AFP alone",2.03,"Y","1",1.4,0.8,"Y",NA
+"Y","Pandemic","11","N","Symptomatic",75,"F","NAFLD","N",62,"I","C",NA,"Supportive care",10.27,"Alive",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","11","N","Symptomatic",76,"M","ARLD","Y",36,"IIIA+IIIB","D",NA,"Supportive care",8.33,"Dead",NA,"Y","Consistent",NA,NA,NA,"3",NA,NA,"Y",2.8
+"Y","Pandemic","11","N","Symptomatic",52,"M","No established CLD","N",220,"I","B",NA,"SIRT",10.03,"Alive",NA,"N",NA,NA,2.53,NA,"0",2.07,1.4,"N",NA
+"Y","Pandemic","12","Y","Symptomatic",82,"M","No established CLD","N",130,"IIIA+IIIB","C",NA,"Supportive care",2.7,"Dead",NA,"N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","12","N","Surveillance",66,"M","ARLD","Y",30,"IIIA+IIIB","C",NA,"Supportive care",9.83,"Alive",NA,"Y","Consistent","AFP alone",NA,"Y","1",NA,NA,"Y",4.166666667
+"Y","Pandemic","12","N","Symptomatic",84,"M","NAFLD","Y",220,"IV","C",NA,"Supportive care",1.8,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","12","N","Incidental",74,"M","NAFLD","N",80,"I","C",NA,"SIRT",9.6,"Alive","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","12","N","Surveillance",80,"M","ARLD","Y",17,"I","A",NA,"Ablation",9.6,"Alive",NA,"Y","Consistent","US",1.23,"Y","0",1.23,NA,"Y",6.3
+"Y","Pandemic","12","N","Symptomatic",60,"M","HH","Y",150,"IIIA+IIIB","C",NA,"Supportive care",0.57,"Dead",NA,"N",NA,NA,NA,NA,"2",NA,NA,"N",NA
+"Y","Pandemic","12","N","Incidental",86,"M","NAFLD","Y",100,"IIIA+IIIB","C",NA,"Supportive care",4.53,"Dead","Secondary care—acute","N",NA,NA,NA,NA,"1",NA,NA,"N",NA
+"Y","Pandemic","12","N","Surveillance",61,"M","ARLD","Y",14,"I","A",NA,"Ablation",9.37,"Alive",NA,"Y","Inconsistent","US",NA,"Y","0",1,NA,"Y",9.766666667
+"Y","Pandemic","12","Y","Incidental",72,"M","NAFLD","Y",39,"II","C",NA,"TACE",9.37,"Alive","Secondary care—routine","N",NA,NA,NA,NA,"1",0.77,NA,"N",NA
+"Y","Pandemic","12","N","Symptomatic",85,"F","NAFLD","Y",60,"IV","C",NA,"Supportive care",2.77,"Dead","Secondary care—acute","N","Consistent",NA,NA,NA,"2",NA,NA,"Y",NA
+"Y","Pandemic","12","N","Symptomatic",54,"M","ARLD","Y",75,"IIIA+IIIB","C",NA,"Supportive care",9.13,"Alive",NA,"N",NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"Y","Pandemic","12","N","Symptomatic",84,"F","NAFLD","N",45,"IV","D",NA,"Supportive care",9.13,"Alive",NA,"N",NA,NA,NA,NA,"4",NA,NA,"N",NA
+"N","Prepandemic","1",NA,"Symptomatic",56,"M",NA,NA,30,NA,NA,"IV","Medical",32.77,"Alive",NA,NA,NA,NA,1.63,NA,"0",1.53,1.53,"Y",NA
+"N","Prepandemic","1",NA,"Symptomatic",64,"F",NA,NA,35,NA,NA,"I","Supportive care",2.33,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","1",NA,"Symptomatic",54,"M",NA,NA,NA,NA,NA,"IV","Supportive care",0.3,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","1",NA,"Surveillance",75,"M",NA,NA,NA,NA,NA,"II","Supportive care",5.53,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","1",NA,"Symptomatic",73,"F",NA,NA,14,NA,NA,"IV","Supportive care",10.17,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","1",NA,"Incidental",73,"M",NA,NA,NA,NA,NA,"IV","Resection",18.07,"Dead",NA,NA,NA,NA,3.23,NA,"1",2.67,2.67,"Y",NA
+"N","Prepandemic","2",NA,"Symptomatic",83,"M",NA,NA,NA,NA,NA,"IV","Supportive care",0.27,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","2",NA,"Symptomatic",74,"M",NA,NA,NA,NA,NA,"II","Supportive care",5.97,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","2",NA,"Symptomatic",52,"M",NA,NA,21,NA,NA,"III","Resection",31.67,"Alive",NA,NA,NA,NA,1.3,NA,"0",0.27,0.27,"Y",NA
+"N","Prepandemic","2",NA,"Incidental",80,"F",NA,NA,40,NA,NA,"II","Supportive care",0.1,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Prepandemic","2",NA,"Symptomatic",65,"F",NA,NA,50,NA,NA,"IV","Resection",30.63,"Dead",NA,NA,NA,NA,1.73,NA,"0",1.37,1.37,"Y",NA
+"N","Prepandemic","2",NA,"Symptomatic",67,"M",NA,NA,11,NA,NA,"III","Supportive care",31.67,"Alive",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Prepandemic","2",NA,"Symptomatic",68,"M",NA,NA,14,NA,NA,"II","Resection",31.4,"Alive",NA,NA,NA,NA,1.5,NA,"0",1.5,1.5,"Y",NA
+"N","Prepandemic","3",NA,"Symptomatic",88,"F",NA,NA,NA,NA,NA,"II","Supportive care",0.37,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","3",NA,"Symptomatic",65,"F",NA,NA,NA,NA,NA,"IV","Supportive care",13.33,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","3",NA,"Symptomatic",73,"F",NA,NA,NA,NA,NA,"IV","Supportive care",0.8,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","3",NA,"Symptomatic",66,"M",NA,NA,NA,NA,NA,"II","Resection",9.07,"Dead",NA,NA,NA,NA,1.83,NA,"1",1.1,1.1,"Y",NA
+"N","Prepandemic","3",NA,"Symptomatic",73,"F",NA,NA,114,NA,NA,"IV","Supportive care",17,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",70,"M",NA,NA,190,NA,NA,"IV","Medical",29.83,"Alive",NA,NA,NA,NA,1.57,NA,"0",0.57,0.57,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",56,"F",NA,NA,135,NA,NA,"IV","Medical",3.27,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",74,"M",NA,NA,68,NA,NA,"III","Supportive care",18.6,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",82,"M",NA,NA,64,NA,NA,"IV","Supportive care",0.57,"Dead",NA,NA,NA,NA,0.47,NA,"3",0.1,0.1,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",72,"M",NA,NA,NA,NA,NA,"II","Resection",29.83,"Alive",NA,NA,NA,NA,0.67,NA,"1",0.4,0.4,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",71,"M",NA,NA,55,NA,NA,"IV","Supportive care",2.87,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",87,"F",NA,NA,NA,NA,NA,"IV","Supportive care",0.47,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",61,"F",NA,NA,NA,NA,NA,"IV","Medical",12.77,"Dead",NA,NA,NA,NA,1,NA,"1",0.37,0.37,"Y",NA
+"N","Prepandemic","4",NA,"Symptomatic",74,"M",NA,NA,83,NA,NA,"III","Supportive care",3.83,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Prepandemic","5",NA,"Symptomatic",53,"M",NA,NA,28,NA,NA,"II","Resection",29.13,"Alive",NA,NA,NA,NA,1.03,NA,"0",1.4,1.4,"Y",NA
+"N","Prepandemic","5",NA,"Symptomatic",70,"M",NA,NA,NA,NA,NA,"IV","Supportive care",11.43,"Dead",NA,NA,NA,NA,2.4,NA,"0",1.53,1.53,"Y",NA
+"N","Prepandemic","6",NA,"Surveillance",53,"M",NA,NA,35,NA,NA,"III","SIRT",16.5,"Dead",NA,NA,NA,NA,-1434.07,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","6",NA,"Symptomatic",81,"M",NA,NA,76,NA,NA,"III","Supportive care",5.33,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","6",NA,"Symptomatic",47,"F",NA,NA,49,NA,NA,"IV","Medical",19.3,"Dead",NA,NA,NA,NA,3.47,NA,"1",1.63,1.63,"Y",NA
+"N","Prepandemic","7",NA,"Symptomatic",70,"M",NA,NA,15,NA,NA,"IV","Medical",27.1,"Alive",NA,NA,NA,NA,2.63,NA,"0",1.87,1.87,"Y",NA
+"N","Prepandemic","7",NA,"Incidental",78,"M",NA,NA,25,NA,NA,"II","Supportive care",27.1,"Alive",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","7",NA,"Symptomatic",72,"M",NA,NA,NA,NA,NA,"IV","Resection",19.53,"Dead",NA,NA,NA,NA,7,NA,"0",5.43,5.43,"Y",NA
+"N","Prepandemic","7",NA,"Symptomatic",28,"M",NA,NA,NA,NA,NA,"IV","Resection",8.13,"Dead",NA,NA,NA,NA,2.03,NA,"0",2.43,2.43,"Y",NA
+"N","Prepandemic","7",NA,"Symptomatic",70,"M",NA,NA,110,NA,NA,"IV","Supportive care",0.27,"Dead",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Prepandemic","7",NA,"Symptomatic",57,"M",NA,NA,17,NA,NA,"IV","Supportive care",5.27,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",70,"F",NA,NA,45,NA,NA,"IV","Medical",4.4,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",71,"F",NA,NA,75,NA,NA,"III","Medical",3.9,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",75,"M",NA,NA,23,NA,NA,"IV","Medical",22.33,"Dead",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",82,"M",NA,NA,NA,NA,NA,NA,"Supportive care",3.9,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",81,"F",NA,NA,25,NA,NA,"II","Supportive care",16.93,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Surveillance",56,"M",NA,NA,50,NA,NA,"III","Supportive care",14.07,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",56,"F",NA,NA,90,NA,NA,"IV","Medical",4.37,"Dead",NA,NA,NA,NA,2.07,NA,"1",1.77,1.77,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",74,"M",NA,NA,NA,NA,NA,"IV","Supportive care",1.77,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Incidental",78,"F",NA,NA,25,NA,NA,"IV","Supportive care",5.97,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",82,"F",NA,NA,NA,NA,NA,"IV","Supportive care",1.07,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","8",NA,"Symptomatic",67,"F",NA,NA,67,NA,NA,"II","Supportive care",13.03,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Prepandemic","9",NA,"Symptomatic",69,"F",NA,NA,NA,NA,NA,"II","Resection",25.03,"Alive",NA,NA,NA,NA,3.97,NA,"1",3.1,3.1,"Y",NA
+"N","Prepandemic","9",NA,"Symptomatic",73,"M",NA,NA,NA,NA,NA,"IV","Supportive care",1.87,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","9",NA,"Incidental",75,"M",NA,NA,65,NA,NA,"III","Supportive care",5.7,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","9",NA,"Symptomatic",63,"F",NA,NA,57,NA,NA,"IV","Medical",0.43,"Dead",NA,NA,NA,NA,4.8,NA,"1",2.27,2.27,"Y",NA
+"N","Prepandemic","9",NA,"Symptomatic",62,"F",NA,NA,97,NA,NA,"IV","Medical",24.57,"Alive",NA,NA,NA,NA,3.33,NA,"2",2.87,2.87,"Y",NA
+"N","Prepandemic","9",NA,"Surveillance",80,"M",NA,NA,29,NA,NA,"II","Supportive care",6.77,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","9",NA,"Incidental",71,"M",NA,NA,52,NA,NA,"III","Supportive care",6.1,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","10",NA,"Incidental",74,"M",NA,NA,NA,NA,NA,"IV","Supportive care",4.73,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","10",NA,"Incidental",83,"F",NA,NA,52,NA,NA,"III","Supportive care",0.87,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Prepandemic","10",NA,"Symptomatic",85,"F",NA,NA,NA,NA,NA,"IV","Supportive care",6.17,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","10",NA,"Symptomatic",69,"F",NA,NA,NA,NA,NA,"II","Resection",23.63,"Alive",NA,NA,NA,NA,3,NA,"0",1.7,1.7,"Y",NA
+"N","Prepandemic","10",NA,"Symptomatic",86,"F",NA,NA,16,NA,NA,"III","Supportive care",0.67,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Prepandemic","11",NA,"Symptomatic",74,"M",NA,NA,100,NA,NA,"IV","Medical",23.2,"Alive",NA,NA,NA,NA,1.23,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","5",NA,"Incidental",69,"M",NA,NA,53,NA,NA,"I","Medical",29.23,"Alive",NA,NA,NA,NA,0,NA,"0",NA,NA,"Y",NA
+"N","Prepandemic","5",NA,"Surveillance",84,"M",NA,NA,30,NA,NA,"II","SIRT",29.23,"Alive",NA,NA,NA,NA,0,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","11",NA,"Symptomatic",73,"M",NA,NA,100,NA,NA,"IV","Medical",23.2,"Alive",NA,NA,NA,NA,1.03,NA,"1",-0.87,-0.87,"Y",NA
+"N","Prepandemic","11",NA,"Symptomatic",61,"M",NA,NA,104,NA,NA,"IV","Medical",21.23,"Dead",NA,NA,NA,NA,2.23,NA,"0",1.87,1.87,"Y",NA
+"N","Prepandemic","11",NA,"Incidental",71,"M",NA,NA,NA,NA,NA,"II","Resection",22.97,"Alive",NA,NA,NA,NA,1.57,NA,"1",0.17,0.17,"Y",NA
+"N","Prepandemic","11",NA,"Symptomatic",77,"F",NA,NA,61,NA,NA,"IV","Medical",9.87,"Dead",NA,NA,NA,NA,5.3,NA,"1",2.5,2.5,"Y",NA
+"N","Prepandemic","11",NA,"Symptomatic",72,"M",NA,NA,190,NA,NA,"IV","Medical",22.5,"Alive",NA,NA,NA,NA,1.57,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","11",NA,"Surveillance",55,"M",NA,NA,43,NA,NA,"II","OLTx",5.33,"Dead",NA,NA,NA,NA,0,NA,"1",NA,NA,"Y",NA
+"N","Prepandemic","11",NA,"Incidental",47,"M",NA,NA,15,NA,NA,"IV","Resection",22.27,"Alive",NA,NA,NA,NA,5.17,NA,"0",3.67,3.67,"Y",NA
+"N","Prepandemic","12",NA,"Symptomatic",39,"M",NA,NA,32,NA,NA,"II","SIRT",15.17,"Dead",NA,NA,NA,NA,2.27,NA,"0",1.17,1.17,"Y",NA
+"N","Prepandemic","12",NA,"Symptomatic",68,"M",NA,NA,15,NA,NA,"IV","Resection",20.9,"Dead",NA,NA,NA,NA,3.8,NA,"1",2.73,2.73,"Y",NA
+"N","Prepandemic","12",NA,"Incidental",44,"F",NA,NA,86,NA,NA,"IV","Medical",20.63,"Dead",NA,NA,NA,NA,3.37,NA,"0",NA,NA,"Y",NA
+"N","Prepandemic","12",NA,"Symptomatic",66,"F",NA,NA,94,NA,NA,"IV","Medical",21.37,"Alive",NA,NA,NA,NA,2.63,NA,"1",2.33,2.33,"Y",NA
+"N","Pandemic","1",NA,"Symptomatic",73,"F",NA,NA,100,NA,NA,"III","Supportive care",6.5,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","1",NA,"Incidental",59,"M",NA,NA,75,NA,NA,"IV",NA,1.9,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","1",NA,"Symptomatic",39,"F",NA,NA,13,NA,NA,"IV","Resection",21.1,"Alive",NA,NA,NA,NA,0.8,NA,"0",0.73,0.73,"Y",NA
+"N","Pandemic","1",NA,"Symptomatic",64,"M",NA,NA,20,NA,NA,"IV","Medical",20.63,"Alive",NA,NA,NA,NA,12.6,NA,"0",11.9,11.9,"Y",NA
+"N","Pandemic","1",NA,"Symptomatic",60,"M",NA,NA,25,NA,NA,"IV","Supportive care",0.6,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","1",NA,"Surveillance",71,"M",NA,NA,10,NA,NA,"III","Supportive care",20.3,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","2",NA,"Symptomatic",81,"M",NA,NA,NA,NA,NA,"IV","Supportive care",5.1,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","2",NA,"Symptomatic",71,"F",NA,NA,57,NA,NA,"IV","Supportive care",0.43,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","2",NA,"Symptomatic",52,"M",NA,NA,40,NA,NA,"IV","Resection",19.73,"Alive",NA,NA,NA,NA,2,NA,"1",1.4,1.4,"Y",NA
+"N","Pandemic","2",NA,"Symptomatic",76,"F",NA,NA,34,NA,NA,"IV","Supportive care",0.8,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","2",NA,"Incidental",71,"M",NA,NA,75,NA,NA,"IV","Medical",6.93,"Dead",NA,NA,NA,NA,4.53,NA,"1",1.27,1.27,"Y",NA
+"N","Pandemic","2",NA,"Symptomatic",70,"M",NA,NA,54,NA,NA,"IV","Medical",2.77,"Dead",NA,NA,NA,NA,3.83,NA,"1",2.67,2.67,"Y",NA
+"N","Pandemic","2",NA,"Symptomatic",55,"F",NA,NA,NA,NA,NA,"IV","Supportive care",4.27,"Dead",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Pandemic","3",NA,"Symptomatic",73,"M",NA,NA,40,NA,NA,"IV","Supportive care",0.37,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","3",NA,"Symptomatic",73,"M",NA,NA,50,NA,NA,"IV","Supportive care",0.6,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","4",NA,"Symptomatic",80,"M",NA,NA,NA,NA,NA,"IV","Supportive care",0,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Pandemic","4",NA,"Incidental",70,"M",NA,NA,70,NA,NA,"IV","Supportive care",17.9,"Alive",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Pandemic","4",NA,"Symptomatic",65,"F",NA,NA,NA,NA,NA,"IV","Supportive care",2.13,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","4",NA,"Symptomatic",69,"M",NA,NA,NA,NA,NA,"IV","Supportive care",14.33,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","4",NA,"Incidental",70,"M",NA,NA,26,NA,NA,"IV","Supportive care",3.27,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","4",NA,"Symptomatic",55,"M",NA,NA,25,NA,NA,"IV","Medical",17.43,"Alive",NA,NA,NA,NA,1.83,NA,"0",1.4,1.4,"Y",NA
+"N","Pandemic","5",NA,"Symptomatic",74,"F",NA,NA,19,NA,NA,"IV","Supportive care",17.2,"Alive",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","5",NA,"Symptomatic",75,"F",NA,NA,80,NA,NA,"IV","Supportive care",4,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","5",NA,"Symptomatic",83,"M",NA,NA,70,NA,NA,"IV","Supportive care",0.73,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","5",NA,"Symptomatic",83,"F",NA,NA,NA,NA,NA,"IV","Supportive care",4.73,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","5",NA,"Incidental",69,"M",NA,NA,40,NA,NA,"III","Resection",16.97,"Alive",NA,NA,NA,NA,5.47,NA,"0",4.13,4.13,"Y",NA
+"N","Pandemic","5",NA,"Symptomatic",82,"M",NA,NA,31,NA,NA,"IV","Supportive care",4.9,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","5",NA,"Symptomatic",63,"M",NA,NA,23,NA,NA,"IV","Medical",16.73,"Alive",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Pandemic","5",NA,"Symptomatic",39,"M",NA,NA,25,NA,NA,"IV","Supportive care",4.8,"Dead",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Pandemic","6",NA,"Symptomatic",79,"M",NA,NA,40,NA,NA,"III","Supportive care",9.57,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","6",NA,"Symptomatic",70,"M",NA,NA,55,NA,NA,"IV","Supportive care",1.23,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Pandemic","6",NA,"Symptomatic",62,"M",NA,NA,34,NA,NA,"IV","Medical",15.37,"Alive",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","7",NA,"Symptomatic",61,"F",NA,NA,52,NA,NA,"IV","Resection",4.97,"Dead",NA,NA,NA,NA,1.87,NA,"1",0.9,0.9,"Y",NA
+"N","Pandemic","7",NA,"Symptomatic",69,"M",NA,NA,NA,NA,NA,"IV","Resection",10.77,"Dead",NA,NA,NA,NA,1.3,NA,"1",0.87,0.87,"Y",NA
+"N","Pandemic","7",NA,"Incidental",73,"M",NA,NA,NA,NA,NA,"IV","Resection",0.67,"Dead",NA,NA,NA,NA,3.23,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","7",NA,"Symptomatic",73,"F",NA,NA,42,NA,NA,"IV","Supportive care",1.97,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Pandemic","7",NA,"Symptomatic",68,"M",NA,NA,27,NA,NA,"IV","Medical",14.47,"Alive",NA,NA,NA,NA,3.3,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","8",NA,"Incidental",74,"M",NA,NA,32,NA,NA,"II","Resection",14.23,"Alive",NA,NA,NA,NA,4.07,NA,"1",2.67,2.67,"Y",NA
+"N","Pandemic","8",NA,"Symptomatic",85,"F",NA,NA,NA,NA,NA,"IV","Supportive care",0.83,"Dead",NA,NA,NA,NA,NA,NA,"4",NA,NA,"Y",NA
+"N","Pandemic","8",NA,"Symptomatic",52,"M",NA,NA,93,NA,NA,"IV","Supportive care",3.97,"Dead",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Pandemic","8",NA,"Symptomatic",74,"M",NA,NA,150,NA,NA,"IV","Supportive care",1.6,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","8",NA,"Symptomatic",59,"M",NA,NA,80,NA,NA,"IV","Supportive care",0.9,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Pandemic","9",NA,"Symptomatic",81,"M",NA,NA,NA,NA,NA,"IV","Medical",0.77,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","9",NA,"Symptomatic",76,"M",NA,NA,NA,NA,NA,"IV","TACE",1,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","10",NA,"Incidental",72,"F",NA,NA,90,NA,NA,"IV","Supportive care",1.87,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","10",NA,"Symptomatic",51,"M",NA,NA,NA,NA,NA,"IV","Medical",12.17,"Alive",NA,NA,NA,NA,NA,NA,"1",0.3,0.3,"Y",NA
+"N","Pandemic","10",NA,"Incidental",65,"F",NA,NA,81,NA,NA,"IV","Medical",11.27,"Alive",NA,NA,NA,NA,3,NA,"0",1.83,1.83,"Y",NA
+"N","Pandemic","10",NA,"Incidental",70,"M",NA,NA,18,NA,NA,"III","Resection",11.27,"Alive",NA,NA,NA,NA,1.93,NA,"0",1.37,1.37,"Y",NA
+"N","Pandemic","11",NA,"Symptomatic",81,"M",NA,NA,NA,NA,NA,"IV","Supportive care",2.37,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","11",NA,"Incidental",82,"M",NA,NA,NA,NA,NA,"IV","Supportive care",3.27,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","11",NA,"Symptomatic",72,"F",NA,NA,74,NA,NA,"IV","Medical",10.33,"Alive",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",84,"F",NA,NA,27,NA,NA,"IV","Medical",3.97,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",63,"M",NA,NA,80,NA,NA,"II","Resection",10.13,"Alive",NA,NA,NA,NA,1.13,NA,"1",0.67,0.67,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",73,"M",NA,NA,NA,NA,NA,"IV","Resection",10.13,"Alive",NA,NA,NA,NA,1.37,NA,"1",0.7,0.7,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",82,"F",NA,NA,18,NA,NA,"III","Supportive care",0.6,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",73,"M",NA,NA,NA,NA,NA,"IV","Supportive care",8.47,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",67,"M",NA,NA,110,NA,NA,"IV","TACE",0.53,"Dead",NA,NA,NA,NA,NA,NA,"3",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Incidental",87,"F",NA,NA,40,NA,NA,"III","Supportive care",7.9,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",73,"M",NA,NA,20,NA,NA,"IV",NA,5.03,"Dead",NA,NA,NA,NA,NA,NA,"0",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",72,"F",NA,NA,NA,NA,NA,"III","Supportive care",1.2,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",63,"M",NA,NA,75,NA,NA,"IV","Medical",9.67,"Alive",NA,NA,NA,NA,2.93,NA,"0",1.63,1.63,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",79,"F",NA,NA,63,NA,NA,"IV","Supportive care",1.47,"Dead",NA,NA,NA,NA,NA,NA,"1",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Symptomatic",84,"F",NA,NA,65,NA,NA,"IV","Medical",1.67,"Dead",NA,NA,NA,NA,NA,NA,"2",NA,NA,"Y",NA
+"N","Pandemic","12",NA,"Incidental",80,"F",NA,NA,45,NA,NA,"II","Supportive care",7.27,"Dead",NA,NA,NA,NA,0,NA,"2",NA,NA,"Y",NA
